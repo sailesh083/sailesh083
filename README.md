@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Sailesh.
 - 👀 I’m a Software Engineer. Experience: 1.5 years
 - 🌱 Skills(Preferneces decreases from left to right)
      - Language: C++, C, Bash(Shell Scripting), Python, Java, HTML, CSS, JS and a few;
